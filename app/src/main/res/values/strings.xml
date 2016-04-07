@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TestMap2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_gpslocation">GPSLocation</string>
+
+    <string name="run_spatialite1">Run SpatiaLite Operations (Create table -> Insert record -> Select record)</string>
+    <string name="run_spatialite2">Run SpatiaLite Operations (Hong Kong)</string>
+
+    <!-- Location strings -->
+    <string name="latitudeLabel">Latitude:</string>
+    <string name="longitudeLabel">Longitude:</string>
+    <string name="providerLabel">Provider:</string>
+    <string name="accuracyLabel">Accuracy:</string>
+    <string name="timeToFixLabel">Time to Fix:</string>
+    <string name="secondsUnit">second(s)</string>
+    <string name="metersUnit">meters(s)</string>
+    <string name="enabledProvidersLabel">Enabled Providers:</string>
+    <string name="changeLocationProviderSettingsText">Change Location Provider Settings</string>
+    <string name="txtBestProvider">Best Provider</string>
+    <string name="txt_status">....data will go here....</string>
+    <string name="txtLocationInfo">Location Info</string>
+    <string name="txtStart">Start</string>
+    <string name="txtStop">Stop</string>
+    <string name="txtShowMap">Show Map</string>
+
+</resources>
