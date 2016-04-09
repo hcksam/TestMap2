@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void forward(){
-        Intent intent = new Intent(this, Spatialite2.class);
+        Intent intent = new Intent(this, GeoCodeActivity.class);
         startActivity(intent);
     }
 
